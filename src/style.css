@@ -1,0 +1,28 @@
+button {
+  height: 45px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#zero {
+  grid-column: span 2;
+}
+
+.calculator {
+  border: 1px solid black;
+  font-size: 30px;
+}
+.displayPanel {
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.inputPanel {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+
+.operators {
+  background-color: orange;
+}
