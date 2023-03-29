@@ -1,3 +1,5 @@
 # react-simple-calculator-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-uuhwgw)
+- simple calculator app using react
+
+- Edit on StackBlitz ⚡️(https://stackblitz.com/edit/react-uuhwgw)
